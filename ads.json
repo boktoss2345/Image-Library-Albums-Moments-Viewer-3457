@@ -10,7 +10,7 @@
     "autoCloseAtZero": true
   },
   "behavior": {
-    "selectionMode": "random",
+    "selectionMode": "sequential",
     "refreshConfigBeforeShow": true
   },
   "overlay": {
@@ -35,6 +35,7 @@
           "controls": false,
           "widthPercent": 82,
           "maxWidthDp": 420,
+          "heightPercent": 60,
           "contentScale": "fit",
           "cornerRadiusDp": 24,
           "clickable": true,
@@ -79,6 +80,7 @@
           "controls": false,
           "widthPercent": 82,
           "maxWidthDp": 420,
+          "heightPercent": 60,
           "contentScale": "fit",
           "cornerRadiusDp": 24,
           "clickable": true,
